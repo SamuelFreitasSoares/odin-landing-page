@@ -198,3 +198,14 @@ li{
     font-size: 20px;
     font-weight: 900;
 }
+
+.footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+    font-size: 20px;
+}
