@@ -157,3 +157,44 @@ li{
     align-self: flex-end;
     font-weight: bold;
 }
+
+.ad-banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 90px;
+}
+
+.banner{
+    background-color: #3882F6;
+    padding-right: 120px;
+    padding-left: 120px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    gap: 250px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #3882F6;
+}
+
+.banner-title{
+    font-weight: 900;
+    color: #F9FAF8;
+    font-size: 20px;
+}
+
+.banner-text{
+    color: lightgrey;
+}
+
+.banner-bt{
+    width: 150px;
+    background-color: #3882F6;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+}
