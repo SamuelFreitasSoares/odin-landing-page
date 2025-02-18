@@ -134,3 +134,26 @@ li{
     width: 137px;
     border-radius: 10px;
 }
+
+.quote{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-right: 350px;
+    padding-left: 350px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-style: italic;
+    color: #74788a;
+}
+
+.quote-author{
+    font-size: 20px;
+    align-self: flex-end;
+    font-weight: bold;
+}
